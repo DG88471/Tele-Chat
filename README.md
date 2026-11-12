@@ -1,4 +1,14 @@
 Tele Chat – Kostenlose und unabhängige Kommunikation
+⚠️ Wichtiger Hinweis
+
+Ihr könnt den bereitgestellten Quellcode direkt aus diesem GitHub-Projekt kopieren und in Visual Studio Code einfügen.
+
+Anschließend könnt ihr das Projekt lokal auf eurem eigenen PC einrichten, weiterentwickeln und ausführen.
+
+Ihr könnt den Code natürlich auch nach euren eigenen Vorstellungen anpassen und erweitern.
+
+Viel Spaß beim Ausprobieren.
+
 
 Tele Chat wurde vollständig von mir selbst entwickelt, mit dem Ziel, eine kostenlose und unabhängige Telekommunikationslösung zu schaffen, bei der die Datenhoheit vollständig beim Nutzer bleibt.
 
